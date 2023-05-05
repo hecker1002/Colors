@@ -2,7 +2,7 @@ import cv2
 import pandas as pd 
 
 
-path = r"C:\Users\HP\OneDrive\Desktop\Github\example1.jpg"
+path = r"\example1.jpg"
 img = cv2.imread(path) 
 
 
